@@ -1,0 +1,5 @@
+*.csv
+*.lock
+*.xls
+.idea/
+vendor/
