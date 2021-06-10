@@ -7,11 +7,11 @@ Requires `php` and `composer`
 
 ```sh
 composer install
-php extract.php [filename] # filename defaults to 'kontotransactionlist.xls'
+php extract.php            # filename defaults to 'kontotransactionlist.xls'
                            # outputs file 'ynab.csv'
 ```
 
 ## Todo
 - [ ] Support different filenames
 - [ ] Only output cleared transactions
-- [ ] Select date span, or atleast "only select transactions from date ___"
+- [ ] Select date span, or at least "only select transactions from date ___"
