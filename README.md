@@ -1,3 +1,5 @@
+Note: This project is in alpha state. I use it a couple times a week, but it is not production ready. Use with caution.
+
 # Handelsbanken export file to YNAB CSV
 Convert a "Svenska Handelsbanken" export file to a CSV file which YNAB understands.
 
@@ -7,8 +9,9 @@ Requires `php` and `composer`
 
 ```sh
 composer install
-php extract.php            # filename defaults to 'kontotransactionlist.xls'
-                           # outputs file 'ynab.csv'
+
+php extract.php  # filename defaults to 'kontotransactionlist.xls'
+                 # outputs file 'ynab.csv'
 ```
 
 ## Todo
