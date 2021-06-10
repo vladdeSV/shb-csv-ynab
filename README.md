@@ -1,6 +1,6 @@
 Note: This project is in alpha state. I use it a couple times a week, but it is not production ready. Use with caution.
 
-# Handelsbanken export file to YNAB CSV
+# Handelsbanken to YNAB CSV converter
 Convert a "Svenska Handelsbanken" export file to a CSV file which YNAB understands.
 
 ## Usage
