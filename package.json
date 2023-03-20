@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "@types/prompt-sync": "^4.2.0",
+    "@types/qrcode-terminal": "^0.12.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^19.7.5",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
